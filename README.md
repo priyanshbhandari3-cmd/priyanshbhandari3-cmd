@@ -17,4 +17,6 @@ Full Stack Developer | MERN Specialist
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshbhandari3-cmd&theme=dark)
 
+![Snake animation](https://github.com/priyanshbhandari3-cmd/priyanshbhandari3-cmd/blob/output/github-contribution-grid-snake-dark.svg)
+
 
