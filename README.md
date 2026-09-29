@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Priyansh Bhandari
 
 ## 👨‍💻 About Me:
-Full Stack Developer | MERN Specialist
+COMPUTER ENGINEERING STUDENT EXPLORING DATA SCIENCE , MACHINE LEARNING & CLOUD COMPUTING AND KNOWLEDEGE OF DEVELOPMENT 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/priyansh-bhandari-86282533b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
